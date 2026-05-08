@@ -1,4 +1,5 @@
-🚀 Sistema de Estoque e Vendas Pro
+Sistema de Estoque
+
 Sistema completo de gestão comercial, desenvolvido em Python utilizando Programação Orientada a Objetos (POO). Projeto robusto, limpo e totalmente funcional, pronto para uso e expansão.
 
 ---
@@ -7,9 +8,9 @@ Sistema completo de gestão comercial, desenvolvido em Python utilizando Program
 ✅ Cadastro e Autenticação de Usuário — Controle de acesso seguro
 ✅ Gerenciamento de Produtos — Cadastro com nome, preço e quantidade
 ✅ Controle de Estoque — Atualização automática na hora da venda
-✅ Sistema de Vendas** — Cálculo automático do valor total e validação de estoque
-✅ Interface Amigável** — Menu interativo e mensagens claras
-✅ Código Estruturado** — Fácil de manter e adicionar novas funções
+✅ Sistema de Vendas — Cálculo automático do valor total e validação de estoque
+✅ Interface Amigável — Menu interativo e mensagens claras
+✅ Código Estruturado — Fácil de manter e adicionar novas funções
 
 ---
 
